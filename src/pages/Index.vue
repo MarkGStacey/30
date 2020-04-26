@@ -52,7 +52,7 @@ export default {
   },
   data() {
     return {
-        imgSrc: '/assets/static/uploads/card (' + Math.floor(Math.random() * 58) + ').jpeg?width=800&quality=90&fit=cover&key=51a209a'
+        imgSrc: '/assets/static/uploads/card (' + Math.floor(Math.random() * 58) + ').jpg?width=800&quality=90&fit=cover&key=51a209a'
     }
   }
 }
