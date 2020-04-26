@@ -2,7 +2,7 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: "Portfolio",
+  siteName: "30 Seconds",
   siteUrl: `https://www.itsnwa.com`,
   host: "0.0.0.0",
   titleTemplate: "%s - NWA",
